@@ -1,0 +1,31 @@
+Questions Discussed in the video:
+
+1.I sold 2 hens for Rs.105 each on one I lost 25% on the other I gained 50%. What is the Gain or Loss on my total outlay?
+
+2.A Person bought 2 books for Rs.1200 each. He sold one at a profit of 20% & other at a loss of 20%. What would be his overall profit/loss in the transaction?
+
+3. A Shops prices are 25% above C.P, but it allows its customers 12%, commission on the amounts of their bills. what is the profit % made ?
+
+4. The C.P of 24 articles is equal to Selling Price of 18 articles. Find the Gain %
+
+5.A Dishonest dealer professes to sell his goods at CP but uses a weight of 960 gms for a Kg. Find his gain %
+
+6. A Shopkeeper marks the price of an article at Rs.180. What will be the SP, if he allows two successive discounts of 5 % each?
+
+Formulas used :
+
+GAIN = SP - CP
+
+LOSS = CP - SP
+
+GAIN % = GAIN X 100 / CP
+
+LOSS % = LOSS X 100 / CP
+
+SP = ((100 + GAIN%)/100) X CP
+
+SP = ((100 - LOSS%)/100) X CP
+
+PERCENTAGE CHANGE = ((M - N)/N) X 100
+
+GAIN % = (ERROR / (TRUE VALUE - ERROR)) X 100
